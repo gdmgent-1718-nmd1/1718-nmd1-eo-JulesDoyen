@@ -15,4 +15,6 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 body {background-color: #ffded5}
+h1 {font-family: 'Oswald', sans-serif;}
+h2 {}
 /* Voeg jouw css hieraan toe */
