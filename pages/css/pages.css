@@ -12,12 +12,14 @@ body {
 }
 
 img {
-    max-width: 100%; width: auto; /* Afbeeldingen responsive maken */
+    max-width: 100%; width: 1000px; /* Afbeeldingen responsive maken */
 }
 body {background-color: #ffded5}
 h1 {font-family: 'Oswald', sans-serif; font-size: 36pt; color: #ffffff; text-shadow: 3px 3px #96fffc;}
-h2 {font-family: 'Oswald', sans-serif; font-size: 24pt;}
-h3 {font-family: 'Lato', sans-serif; font-size: 18pt;}  .positief{color: green; text-shadow: 3px 3px #ffffff;} .negatief{color: red; text-shadow: 3px 3px #ffffff;}
+h2 {font-family: 'Oswald', sans-serif; font-size: 24pt;color: #5394d5; text-shadow: 3px 3px #ffffff;}
+h3 {font-family: 'Lato', sans-serif; font-size: 18pt;}
+    .positief{color: green; text-shadow: 3px 3px #ffffff;}
+    .negatief{color: red; text-shadow: 3px 3px #ffffff;}
 p {font-family: 'Lato', sans-serif; font-size: 12pt;}
 li {font-family: 'Lato', sans-serif; font-size: 12pt;}
 /* Voeg jouw css hieraan toe */
