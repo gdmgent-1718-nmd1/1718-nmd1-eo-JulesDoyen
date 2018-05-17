@@ -12,7 +12,7 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    max-width: 100%; width: auto; /* Afbeeldingen responsive maken */
 }
 body {background-color: #ffded5}
 h1 {font-family: 'Oswald', sans-serif; font-size: 36pt; color: #ffffff; text-shadow: 3px 3px #96fffc;}
