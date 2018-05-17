@@ -12,7 +12,10 @@ body {
 }
 
 img {
-    max-width: 100%; width: 1000px; /* Afbeeldingen responsive maken */
+    max-width: 100%; width: 1000px;
+    -moz-box-shadow: 10px 10px 5px #888;
+    -webkit-box-shadow: 10px 10px 5px #888;
+    box-shadow: 10px 10px 5px #888; /* Afbeeldingen responsive maken */
 }
 body {background-color: #ffded5}
 h1 {font-family: 'Oswald', sans-serif; font-size: 36pt; color: #ffffff; text-shadow: 3px 3px #96fffc;}
