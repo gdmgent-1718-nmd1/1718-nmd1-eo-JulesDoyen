@@ -14,12 +14,12 @@ body {
 
 img {
     max-width: 100%; width: 1000px;
-    -moz-box-shadow: 10px 10px 5px #000000;
-    -webkit-box-shadow: 10px 10px 5px #000000;
-    box-shadow: 10px 10px 5px #000000; /* Afbeeldingen responsive maken */
+    -moz-box-shadow: 10px 10px 5px #888;
+    -webkit-box-shadow: 10px 10px 5px #888;
+    box-shadow: 10px 10px 5px #888; /* Afbeeldingen responsive maken */
 }
-body {background-color: #231651}
-h1 {font-family: 'Oswald', sans-serif; font-size: 36pt; color: #ffffff; text-shadow: 2px 3px #4DCCBD;}
+body {background-color: #4DCCBD}
+h1 {font-family: 'Oswald', sans-serif; font-size: 36pt; color: #ffffff; text-shadow: 2px 3px #231651;}
 h2 {font-family: 'Oswald', sans-serif; font-size: 24pt;color: #ffffff; text-shadow: 2px 3px #5394d5;}
 h3 {font-family: 'Lato', sans-serif; font-size: 18pt;}
     .positief{color: green; text-shadow: 2px 2px #ffffff;}
