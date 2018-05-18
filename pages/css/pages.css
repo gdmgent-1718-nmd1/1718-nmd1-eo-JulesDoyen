@@ -18,11 +18,11 @@ img {
     box-shadow: 10px 10px 5px #888; /* Afbeeldingen responsive maken */
 }
 body {background-color: #231651}
-h1 {font-family: 'Oswald', sans-serif; font-size: 36pt; color: #ffffff; text-shadow: 3px 3px #4DCCBD;}
-h2 {font-family: 'Oswald', sans-serif; font-size: 24pt;color: #5394d5; text-shadow: 3px 3px #ffffff;}
+h1 {font-family: 'Oswald', sans-serif; font-size: 36pt; color: #ffffff; text-shadow: 2px 3px #4DCCBD;}
+h2 {font-family: 'Oswald', sans-serif; font-size: 24pt;color: #ffffff; text-shadow: 2px 3px #5394d5;}
 h3 {font-family: 'Lato', sans-serif; font-size: 18pt;}
-    .positief{color: green; text-shadow: 3px 3px #ffffff;}
-    .negatief{color: red; text-shadow: 3px 3px #ffffff;}
+    .positief{color: green; text-shadow: 2px 2px #ffffff;}
+    .negatief{color: red; text-shadow: 2px 2px #ffffff;}
 p {font-family: 'Lato', sans-serif; font-size: 12pt; color: #ffffff;}
 li {font-family: 'Lato', sans-serif; font-size: 12pt; color: #ffffff;}
 /* Voeg jouw css hieraan toe */
