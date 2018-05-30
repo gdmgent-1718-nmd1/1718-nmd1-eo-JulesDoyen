@@ -61,4 +61,18 @@ li {font-family: 'Lato', sans-serif; font-size: 12pt; color: #231651;line-height
 .item:hover {
     background-color: #231651;
 }
+.knop {
+    background-color: #ffffff;
+    border: 2px solid #231651;
+    color: #5394d5;
+    padding: 7px 50px;
+    font-family: 'Lato', sans-serif; 
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
 /* Voeg jouw css hieraan toe */
