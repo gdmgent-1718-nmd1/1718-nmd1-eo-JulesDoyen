@@ -28,4 +28,37 @@ h3 {font-family: 'Oswald', sans-serif; font-size: 18pt;color: #ffffff; text-shad
     .negatief{color: red; text-shadow: 2px 2px #ffffff;}
 p {font-family: 'Lato', sans-serif; font-size: 12pt; color: #231651; line-height: 18pt}
 li {font-family: 'Lato', sans-serif; font-size: 12pt; color: #231651;line-height: 18pt}
+#logo {
+    float: left;
+    background-color: #ffffff;
+    padding: 15px;
+    max-width: 100%; width: 56px;
+    -moz-box-shadow: 0px 0px 0px ;
+    -webkit-box-shadow: 0px 0px 0px;
+    box-shadow: 0px 0px 0px ;
+}
+#nav {
+    list-style-type: none;
+    margin: 20px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+.nav-item {
+    float: left;
+}
+.item{
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #5394d5;
+    text-align: center;
+    padding: 31px 40px;
+    text-decoration: none;
+}
+.item:hover {
+    background-color: #231651;
+}
 /* Voeg jouw css hieraan toe */
